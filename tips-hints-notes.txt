@@ -1,0 +1,119 @@
+              _                                                _     _______             _             
+     /\      | |                                              | |   |__   __|           | |            
+    /  \   __| |_   ____ _ _ __   ___ ___ _ __ ___   ___ _ __ | |_     | |_ __ __ _  ___| | _____ _ __ 
+   / /\ \ / _` \ \ / / _` | '_ \ / __/ _ \ '_ ` _ \ / _ \ '_ \| __|    | | '__/ _` |/ __| |/ / _ \ '__|
+  / ____ \ (_| |\ V / (_| | | | | (_|  __/ | | | | |  __/ | | | |_     | | | | (_| | (__|   <  __/ |   
+ /_/    \_\__,_| \_/ \__,_|_| |_|\___\___|_| |_| |_|\___|_| |_|\__|    |_|_|  \__,_|\___|_|\_\___|_|   
+                                                                                                       
+                                                                                                       
+----IMPORTANT----------------------------------
+This program tracks your minecraft advancements in almost real-time as you get them in-game. Whenever you get
+an advancement the program will highlight it in green, and change the frame around it to brown, signifying it
+is done. The reason i say "almost real-time", is because the one hiccup is that to add the advancement to the
+program, you have to pause minecraft, specifically pressing "esc" for at least a brief moment. This is because
+minecraft saves your advancements to the file whenever the player presses the "esc" key and brings up the
+pause menu. However it's not terrible, because you can literally press it and press it again in less than a
+second, and it will work.
+
+
+
+----SET UP--------------------------------
+Set-up is relatively easy, and can be broken down into a few steps:
+
+1. Launch the file using ONE of these three methods:
+
+	a: Double click the jar file
+	b: Run it from the command line using the command "java -jar Advancements.jar"
+	c: For Windows: open the Advancements.BAT file with a text editor, and change the "CHANGE_ME" to
+ 	   the location of the Advancements.JAR file. Now you can add it to your desktop and double click it.
+
+2. Upon opening the program, it will ask you to choose the advancements file from your minecraft world.
+   To find this depends on your operating system:
+
+	Windows: /YOUR NAME/%appdata%/local/.minecraft/saves/advancements/a really long string of 
+		 numbers and text, ending in .json
+	Mac:     /Library/Application Support/minecraft/saves/advancements/a really long string of 
+		 numbers and text, ending in .json
+	Linux:   /home/YOUR NAME/.minecraft/saves/advancements/a really long string of 
+		 numbers and text, ending in .json
+
+   Once you find your file, select it and press "Open". The file chooser will close and you'll be taken to 
+   the main program. If you already have some advancements, the program will highlight them in green.
+
+3. Use the program! Every time you get an advancement in the game, press the esc key (even for just a moment)
+   and the corresponding advancement will light up on the program! It's that easy! When you're done with the
+   program, just close it! No need for safe shutdown, it's easy.
+
+
+
+----TROUBLESHOOTING-----------------------
+This is my first big java project, so there are bound to be a few bugs. i'll list a few known problems
+and my way of fixing them:
+
+	Q: The directions to the file you gave me were bullshit! Where is my folder?!?!?!?
+	A: The directions I gave could be different depending on your computer. Try doing a broad search 
+	   for "minecraft" if you can't find the folder. Google "where is my minecraft saves folder" if you
+	   cant find it. The one part that should be the same is "minecraft/saves/advancements/file.json".
+
+	Q: There's two json files in my advancements folder, what the fuck?
+	A: Sometimes that happens, it's really weird. In my experience, one will start with an eight, and thats
+	   the proper one to use. It couldn't hurt to try them both tho, theres no way my program can hurt
+	   your file.
+
+	Q: I'm getting errors like "no fucking clue where plain/oval/fancy/sprites is"
+	A: My program is very scared of change, and is trying to point to the "frames" folder. Moving the program
+	   out of its original folder or renaming the "frames" folder will fucking ruin it. The file hierarchy should
+	   be the "frames" folder in the same directory as the "Advancements.JAR" file. This is why you should make
+	   shortcuts instead of moving shit around!
+
+	Q: I'm getting "Invalid File"
+	A: This means you either didn't pick a real file, or you didn't choose anything at all.
+
+	Q: I'm getting an error in the command line along the lines of "The java runtime used to compile this program
+	   is JRE 58, but you are running JRE 52" or something like that. huh?
+	A: I compiled this program using Java 14.02, and you don't have my version. do a google search for "JRE 15"
+	   and download and update your JRE from Oracle's website. The one titled "JavaSE 15" is the one I use.
+
+	Q: You keep writing "advancements", don't you mean achievements?
+	A: NO. Achievements were replaced by advancements in 1.12, and while they are functionally the same thing,
+	   this program will not be able to track achievements. Basically, If you're playing on 1.16, you will be fine.
+
+If you find any bugs that these answers don't solve, or just want to know more about the program, email me at
+"lowercaseadev@gmail.com"        (please don't send spam)
+
+
+
+----FOR YOU-------------------------------
+I'm writing this section for YOU. Yes you! the person who found this while searching for a better way to play minecraft!
+the person who downloaded my program! personally I'm sure you're a great person, and I am eternally grateful that
+you wanted to use MY program. Absolutely honored! Thank you so much :)
+
+
+
+----FOR DEVELOPERS------------------------
+All right now that the LOSERS (non-developers) are gone, I'll explain to you how the program works. It was written in
+java with java swing, and works by combining two programs: one to track advancements, and the GUI to display those
+advancements. It was compiled with JavaSE-14 (Java SE 14.02), and I'll be honest, I have no clue what that means
+but I hope you do.
+
+
+
+----THE END-------------------------------
+Thank you for using my program. I really enjoyed writing it, and I hope you enjoy using it. If you have any questions,
+criticism, or ideas on how to improve the program, email me at "lowercaseadev@gmail.com". thats "lowercase a dev".
+
+
+
+Please have a wonderful day.
+
+Sincerely,
+
+Tommy
+
+
+
+
+
+
+
+
