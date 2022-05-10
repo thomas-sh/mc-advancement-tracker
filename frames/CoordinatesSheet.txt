@@ -1,0 +1,528 @@
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-640px -960px"></span></span></span>
+</p>
+<span class="anchor" id="Minecraft"></span><span class="anchor" id="Minecraft"></span></td><td align="center"><b>Minecraft<br /></b></td><td>The heart and story of the game
+</td><td>—</td><td>Have a <a href="/Crafting_table" class="mw-redirect" title="Crafting table">crafting table</a> in your inventory.</td><td><code>story/root
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-160px -3584px"></span></span></span>
+</p>
+<span class="anchor" id="Stone_Age"></span><span class="anchor" id="Stone_Age"></span></td><td align="center"><b>Stone Age<br /></b></td><td>Mine stone with your new pickaxe
+</td><td>Minecraft</td><td>Have cobblestone or blackstone in your inventory, both in the <code><a href="/Tag#items_stone_tool_materials" title="Tag">#stone_tool_materials</a></code> tag.</td><td><code>story/mine_stone
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-32px -3584px"></span></span></span>
+</p>
+<span class="anchor" id="Getting_an_Upgrade"></span><span class="anchor" id="Getting_an_Upgrade"></span></td><td align="center"><b>Getting an Upgrade<br /></b></td><td>Construct a better pickaxe
+</td><td>Stone Age</td><td>Have a <a href="/Pickaxe" title="Pickaxe">stone pickaxe</a> in your inventory.</td><td><code>story/upgrade_tools
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-896px -3488px"></span></span></span>
+</p>
+<span class="anchor" id="Acquire_Hardware"></span><span class="anchor" id="Acquire_Hardware"></span></td><td align="center"><b>Acquire Hardware<br /></b></td><td>Smelt an iron ingot
+</td><td>Getting an Upgrade</td><td>Have an <a href="/Iron_ingot" class="mw-redirect" title="Iron ingot">iron ingot</a> in your inventory.</td><td><code>story/smelt_iron
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-480px -2496px"></span></span></span>
+</p>
+<span class="anchor" id="Suit_Up"></span><span class="anchor" id="Suit_Up"></span></td><td align="center"><b>Suit Up<br /></b></td><td>Protect yourself with a piece of iron armor
+</td><td>Acquire Hardware</td><td>Have any type of iron <a href="/Armor" title="Armor">armor</a> in your inventory.</td><td><code>story/obtain_armor
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-320px -3136px"></span></span></span>
+</p>
+<span class="anchor" id="Hot_Stuff"></span><span class="anchor" id="Hot_Stuff"></span></td><td align="center"><b>Hot Stuff<br /></b></td><td>Fill a bucket with lava
+</td><td>Acquire Hardware</td><td>Have a <a href="/Lava_bucket" class="mw-redirect" title="Lava bucket">lava bucket</a> in your inventory.</td><td><code>story/lava_bucket
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-736px -3552px"></span></span></span>
+</p>
+<span class="anchor" id="Isn.27t_It_Iron_Pick"></span><span class="anchor" id="Isn.27t_It_Iron_Pick"></span></td><td align="center"><b>Isn't It Iron Pick<br /></b></td><td>Upgrade your pickaxe
+</td><td>Acquire Hardware</td><td>Have an <a href="/Pickaxe" title="Pickaxe">iron pickaxe</a> in your inventory.</td><td><code>story/iron_tools
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-960px -2496px"></span></span></span>
+</p>
+<span class="anchor" id="Not_Today.2C_Thank_You"></span><span class="anchor" id="Not_Today.2C_Thank_You"></span></td><td align="center"><b>Not Today, Thank You<br /></b></td><td>Deflect a projectile with a shield
+</td><td>Suit Up</td><td>—</td><td><code>story/deflect_arrow
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-288px -3360px"></span></span></span>
+</p>
+<span class="anchor" id="Ice_Bucket_Challenge"></span><span class="anchor" id="Ice_Bucket_Challenge"></span></td><td align="center"><b>Ice Bucket Challenge<br /></b></td><td>Obtain a block of obsidian
+</td><td>Hot Stuff</td><td>Have a block of <a href="/Obsidian" title="Obsidian">obsidian</a> in your inventory.</td><td><code>story/form_obsidian
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-608px -3488px"></span></span></span>
+</p>
+<span class="anchor" id="Diamonds.21"></span><span class="anchor" id="Diamonds.21"></span></td><td align="center"><b>Diamonds!<br /></b></td><td>Acquire diamonds
+</td><td>Isn't It Iron Pick</td><td>Have a <a href="/Diamond" title="Diamond">diamond</a> in your inventory.</td><td><code>story/mine_diamond
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-480px -3552px"></span></span></span>
+</p>
+<span class="anchor" id="We_Need_to_Go_Deeper"></span><span class="anchor" id="We_Need_to_Go_Deeper"></span></td><td align="center"><b>We Need to Go Deeper<br /></b></td><td>Build, light and enter a Nether Portal
+</td><td>Ice Bucket Challenge</td><td>Enter <a href="/The_Nether" title="The Nether">the Nether</a>.</td><td><code>story/enter_the_nether
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-128px -2496px"></span></span></span>
+</p>
+<span class="anchor" id="Cover_Me_With_Diamonds"></span><span class="anchor" id="Cover_Me_With_Diamonds"></span></td><td align="center"><b>Cover Me With Diamonds<br /></b></td><td>Diamond armor saves lives
+</td><td>Diamonds!</td><td>Have any type of diamond armor in your inventory.</td><td><code>story/shiny_gear
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><img alt="Invicon Enchanted Book.gif" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/20/Invicon_Enchanted_Book.gif/revision/latest/scale-to-width-down/32?cb=20200428014338" decoding="async" width="32" height="32" class="pixel-image" /></span></span>
+</p>
+<span class="anchor" id="Enchanter"></span><span class="anchor" id="Enchanter"></span></td><td align="center"><b>Enchanter<br /></b></td><td>Enchant an item at an <a href="/Enchanting_Table" title="Enchanting Table">Enchanting Table</a>
+</td><td>Diamonds!</td><td>Insert an item in an enchantment table, then apply an enchantment.</td><td><code>story/enchant_item
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-oval-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/41/Advancement-oval-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050501" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-160px -3200px"></span></span></span>
+</p>
+<span class="anchor" id="Zombie_Doctor"></span><span class="anchor" id="Zombie_Doctor"></span></td><td align="center"><b>Zombie Doctor<br /></b></td><td>Weaken and then cure a <a href="/Zombie_Villager" title="Zombie Villager">Zombie Villager</a>
+</td><td>We Need to Go Deeper</td><td><span class="explain" title="Defaults to right click on mouse or right trigger on controller.">Throw</span> a <a href="/Splash_potion_of_Weakness" class="mw-redirect" title="Splash potion of Weakness">splash potion of Weakness</a> at a zombie villager, <span class="explain" title="Defaults to right click on mouse or right trigger on controller.">feed</span> it a <a href="/Golden_apple" class="mw-redirect" title="Golden apple">golden apple</a>, and wait for it to be <a href="/Zombie_Villager#Curing" title="Zombie Villager">cured</a>.</td><td><code>story/cure_zombie_villager
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-384px -3552px"></span></span></span>
+</p>
+<span class="anchor" id="Eye_Spy"></span><span class="anchor" id="Eye_Spy"></span></td><td align="center"><b>Eye Spy<br /></b></td><td>Follow an Eye of Ender
+</td><td>We Need to Go Deeper</td><td>Enter a <a href="/Stronghold" title="Stronghold">stronghold</a>.</td><td><code>story/follow_ender_eye
+</code></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-704px -3168px"></span></span></span>
+</p>
+<span class="anchor" id="The_End.3F"></span><span class="anchor" id="The_End.3F"></span></td><td align="center"><b>The End?<br /></b></td><td>Enter the End Portal
+</td><td>Eye Spy</td><td>Enter <a href="/The_End" title="The End">the End</a> dimension.</td><td><code>story/enter_the_end
+</code></td></tr></tbody></table>
+<h3><span class="mw-headline" id="Nether">Nether</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/Advancement?action=edit&amp;section=5" title="Edit section: Nether">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:352px;"><a href="/File:Advancements_Tree_-_Nether.png" class="image"><img alt="" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/be/Advancements_Tree_-_Nether.png/revision/latest/scale-to-width-down/350?cb=20200623202930" decoding="async" width="350" height="364" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Advancements_Tree_-_Nether.png" class="internal" title="Enlarge"></a></div>Advancement tree in the "Nether" tab</div></div></div></div>
+<div style="clear:both"></div>
+<table class="wikitable sortable" data-description="advancements"><tbody><tr><th class="unsortable" colspan="7"><img alt="Red Nether Bricks JE3 BE2.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/95/Red_Nether_Bricks_JE3_BE2.png/revision/latest/scale-to-width-down/15?cb=20200317202523" decoding="async" width="15" height="15" /> Nether</th></tr><tr><th class="unsortable">
+    Icon                              </th><th>
+    <strong class="mw-selflink selflink">Advancement</strong>      </th><th class="unsortable">
+    In-game description               </th><th>
+    Parent                            </th><th class="unsortable">
+    Actual requirements (if different)</th><th>
+    <a href="/Namespaced_ID" title="Namespaced ID">Namespaced ID</a>                 </th><th>
+    Rewards</th></tr><tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-704px -1344px"></span></span></span>
+</p>
+<span class="anchor" id="Nether"></span><span class="anchor" id="Nether"></span></td><td align="center"><b>Nether<br /></b></td><td>Bring summer clothes
+</td><td>—</td><td>Enter <a href="/The_Nether" title="The Nether">the Nether</a> dimension.</td><td><code>nether/root
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-416px -3552px"></span></span></span>
+</p>
+<span class="anchor" id="Return_to_Sender"></span><span class="anchor" id="Return_to_Sender"></span></td><td align="center"><b>Return to Sender<br /></b></td><td>Destroy a Ghast with a fireball
+</td><td>Nether</td><td>Kill a ghast using a <a href="/Ghast_fireball" class="mw-redirect" title="Ghast fireball">ghast fireball</a>.</td><td><code>nether/return_to_sender
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/8/8a/Experience_Orb_Value_37-72.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>50 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-576px -256px"></span></span></span>
+</p>
+<span class="anchor" id="Those_Were_the_Days"></span><span class="anchor" id="Those_Were_the_Days"></span></td><td align="center"><b>Those Were the Days<br /></b></td><td>Enter a Bastion Remnant
+</td><td>Nether</td><td>—</td><td><code>nether/find_bastion
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-160px -128px"></span></span></span>
+</p>
+<span class="anchor" id="Hidden_in_the_Depths"></span><span class="anchor" id="Hidden_in_the_Depths"></span></td><td align="center"><b>Hidden in the Depths<br /></b></td><td>Obtain Ancient Debris
+</td><td>Nether</td><td>Have <a href="/Ancient_debris" class="mw-redirect" title="Ancient debris">ancient debris</a> in your inventory.</td><td><code>nether/obtain_ancient_debris
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-320px -3552px"></span></span></span>
+</p>
+<span class="anchor" id="Subspace_Bubble"></span><span class="anchor" id="Subspace_Bubble"></span></td><td align="center"><b>Subspace Bubble<br /></b></td><td>Use the Nether to travel 7 km in the Overworld
+</td><td>Nether</td><td>Use the Nether to travel between 2 points in the <a href="/Overworld" title="Overworld">Overworld</a> with a minimum horizontal distance of 7000 blocks between each other, 875 blocks in the Nether.</td><td><code>nether/fast_travel
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/9/9c/Experience_Orb_Value_73-148.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>100 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-768px -3360px"></span></span></span>
+</p>
+<span class="anchor" id="A_Terrible_Fortress"></span><span class="anchor" id="A_Terrible_Fortress"></span></td><td align="center"><b>A Terrible Fortress<br /></b></td><td>Break your way into a Nether Fortress
+</td><td>Nether</td><td>Enter a <a href="/Nether_fortress" class="mw-redirect" title="Nether fortress">nether fortress</a>.</td><td><code>nether/find_fortress
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-128px -192px"></span></span></span>
+</p>
+<span class="anchor" id="Who_is_Cutting_Onions.3F"></span><span class="anchor" id="Who_is_Cutting_Onions.3F"></span></td><td align="center"><b>Who is Cutting Onions?<br /></b></td><td>Obtain Crying Obsidian
+</td><td>Nether</td><td>Have <a href="/Crying_obsidian" class="mw-redirect" title="Crying obsidian">crying obsidian</a> in your inventory.</td><td><code>nether/obtain_crying_obsidian
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-800px -3488px"></span></span></span>
+</p>
+<span class="anchor" id="Oh_Shiny"></span><span class="anchor" id="Oh_Shiny"></span></td><td align="center"><b>Oh Shiny<br /></b></td><td>Distract Piglins with gold
+</td><td>Nether</td><td>Give a <a href="/Piglin" title="Piglin">piglin</a> <i>one</i> of these 22 gold-related items in the <code><a href="/Tag#items_piglin_loved" title="Tag">#piglin_loved</a></code> entity tag.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;note 1&#93;</a></sup> while not wearing any golden armor. If this advancement is attempted while the player is wearing golden armor but piglin(s) are still aggressive toward them, the advancement does not trigger. Other gold-related items, if any, may be used, but are ignored for this advancement and by the piglin.</td><td><code>nether/distract_piglin
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-992px -192px"></span></span></span>
+</p>
+<span class="anchor" id="This_Boat_Has_Legs"></span><span class="anchor" id="This_Boat_Has_Legs"></span></td><td align="center"><b>This Boat Has Legs<br /></b></td><td>Ride a Strider with a Warped Fungus on a Stick
+</td><td>Nether</td><td><span class="explain" title="Defaults to right click on mouse or right trigger on controller.">Boost</span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;1&#93;</a></sup> a strider with a <a href="/Warped_fungus_on_a_stick" class="mw-redirect" title="Warped fungus on a stick">warped fungus on a stick</a>.</td><td><code>nether/ride_strider
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-96px -3136px"></span></span></span>
+</p>
+<span class="anchor" id="Uneasy_Alliance"></span><span class="anchor" id="Uneasy_Alliance"></span></td><td align="center"><b>Uneasy Alliance<br /></b></td><td>Rescue a <a href="/Ghast" title="Ghast">Ghast</a> from the Nether, bring it safely home to the Overworld... and then kill it
+</td><td>Return to Sender</td><td>Kill a <a href="/Ghast" title="Ghast">ghast</a> while in the Overworld.</td><td><code>nether/uneasy_alliance
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/9/9c/Experience_Orb_Value_73-148.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>100 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-704px -1216px"></span></span></span>
+</p>
+<span class="anchor" id="War_Pigs"></span><span class="anchor" id="War_Pigs"></span></td><td align="center"><b>War Pigs<br /></b></td><td>Loot a chest in a Bastion Remnant
+</td><td>Those Were the Days</td><td>Open a chest in a <a href="/Bastion_remnant" class="mw-redirect" title="Bastion remnant">bastion remnant</a>.</td><td><code>nether/loot_bastion
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-928px -192px"></span></span></span>
+</p>
+<span class="anchor" id="Country_Lode.2C_Take_Me_Home"></span><span class="anchor" id="Country_Lode.2C_Take_Me_Home"></span></td><td align="center"><b>Country Lode, Take Me Home<br /></b></td><td>Use a compass on Lodestone
+</td><td>Hidden in the Depths</td><td>Use a <a href="/Compass" title="Compass">compass</a> on a <a href="/Lodestone" title="Lodestone">lodestone</a>.</td><td><code>nether/use_lodestone
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-448px -128px"></span></span></span>
+</p>
+<span class="anchor" id="Cover_Me_in_Debris"></span><span class="anchor" id="Cover_Me_in_Debris"></span></td><td align="center"><b>Cover Me in Debris<br /></b></td><td>Get a full suit of Netherite armor
+</td><td>Hidden in the Depths</td><td>Have a full set of netherite armor in your inventory.</td><td><code>nether/netherite_armor
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/9/9c/Experience_Orb_Value_73-148.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>100 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-224px -960px"></span></span></span>
+</p>
+<span class="anchor" id="Spooky_Scary_Skeleton"></span><span class="anchor" id="Spooky_Scary_Skeleton"></span></td><td align="center"><b>Spooky Scary Skeleton<br /></b></td><td>Obtain a Wither Skeleton's skull
+</td><td>A Terrible Fortress</td><td>Have a <a href="/Head" title="Head">wither skeleton skull</a> in your inventory.</td><td><code>nether/get_wither_skull
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-448px -640px"></span></span></span>
+</p>
+<span class="anchor" id="Into_Fire"></span><span class="anchor" id="Into_Fire"></span></td><td align="center"><b>Into Fire<br /></b></td><td>Relieve a Blaze of its rod
+</td><td>A Terrible Fortress</td><td>Have a <a href="/Blaze_rod" class="mw-redirect" title="Blaze rod">blaze rod</a> in your inventory.</td><td><code>nether/obtain_blaze_rod
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-448px -192px"></span></span></span>
+</p>
+<span class="anchor" id="Not_Quite"></span><span class="anchor" id="Not_Quite"></span></td><td align="center"><b>Not Quite "Nine" Lives<br /></b></td><td>Charge a Respawn Anchor to the maximum
+</td><td>Who is Cutting Onions?</td><td>—</td><td><code>nether/charge_respawn_anchor
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-416px -128px"></span></span></span>
+</p>
+<span class="anchor" id="Hot_Tourist_Destinations"></span><span class="anchor" id="Hot_Tourist_Destinations"></span></td><td align="center"><b>Hot Tourist Destinations<br /></b></td><td>Explore all Nether biomes
+</td><td>This Boat Has Legs</td><td>Visit <i>all</i> of these 5 biomes: Basalt Deltas, Crimson Forest, Nether Wastes, Soul Sand Valley, Warped Forest. The advancement is only for Nether biomes. Other biomes, if any, may also be visited, but are ignored for this advancement.</td><td><code>nether/explore_nether
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/6/62/Experience_Orb_Value_307-616.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>500 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><img alt="Invicon Nether Star.gif" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f6/Invicon_Nether_Star.gif/revision/latest/scale-to-width-down/32?cb=20200428015634" decoding="async" width="32" height="32" class="pixel-image" /></span></span>
+</p>
+<span class="anchor" id="Withering_Heights"></span><span class="anchor" id="Withering_Heights"></span></td><td align="center"><b>Withering Heights<br /></b></td><td>Summon the <a href="/Wither" title="Wither">Wither</a>
+</td><td>Spooky Scary Skeleton</td><td>—</td><td><code>nether/summon_wither
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-832px -1376px"></span></span></span>
+</p>
+<span class="anchor" id="Local_Brewery"></span><span class="anchor" id="Local_Brewery"></span></td><td align="center"><b>Local Brewery<br /></b></td><td>Brew a <a href="/Potion" title="Potion">potion</a>
+</td><td>Into Fire</td><td>Pick up an item from a <a href="/Brewing_stand" class="mw-redirect" title="Brewing stand">brewing stand</a> potion slot. This does not need to be a potion. Water bottles or even glass bottles can also trigger this advancement.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;2&#93;</a></sup></td><td><code>nether/brew_potion
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-352px -3584px"></span></span></span>
+</p>
+<span class="anchor" id="Bring_Home_the_Beacon"></span><span class="anchor" id="Bring_Home_the_Beacon"></span></td><td align="center"><b>Bring Home the Beacon<br /></b></td><td>Construct and place a beacon
+</td><td>Withering Heights</td><td>Be within a 20×20×14 cuboid centered on a <a href="/Beacon" title="Beacon">beacon</a> block when it realizes it has become powered.</td><td><code>nether/create_beacon
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-352px -3136px"></span></span></span>
+</p>
+<span class="anchor" id="A_Furious_Cocktail"></span><span class="anchor" id="A_Furious_Cocktail"></span></td><td align="center"><b>A Furious Cocktail<br /></b></td><td>Have every potion effect applied at the same time
+</td><td>Local Brewery</td><td>Have <i>all</i> of these 13 potion effects: Fire Resistance, Invisibility, Jump Boost, Night Vision, Poison, Regeneration, Resistance, Slow Falling, Slowness, Speed, Strength, Water Breathing, Weakness applied to the player at the same time. Beacon effects also count for the purposes of this advancement. Other <a href="/Status_effect" title="Status effect">potion effects</a>, if any, may be applied to the player, but are ignored for this advancement.</td><td><code>nether/all_potions
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/9/9c/Experience_Orb_Value_73-148.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>100 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-oval-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/41/Advancement-oval-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050501" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-352px -3584px"></span></span></span>
+</p>
+<span class="anchor" id="Beaconator"></span><span class="anchor" id="Beaconator"></span></td><td align="center"><b>Beaconator<br /></b></td><td>Bring a beacon to full power
+</td><td>Bring Home the Beacon</td><td>Be within a 20×20×14 cuboid centered on a <a href="/Beacon" title="Beacon">beacon</a> block when it realizes it is being powered by a size 4 pyramid.</td><td><code>nether/create_full_beacon
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-288px -3136px"></span></span></span>
+</p>
+<span class="anchor" id="How_Did_We_Get_Here.3F"></span><span class="anchor" id="How_Did_We_Get_Here.3F"></span></td><td align="center"><b>How Did We Get Here?<br /></b></td><td>Have every effect applied at the same time 
+</td><td>A Furious Cocktail</td><td>Have <i>all</i> of these 26 effects<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;note 2&#93;</a></sup> applied to the player at the same time. Beacon effects also count for the purposes of this advancement. Other <a href="/Status_effect" title="Status effect">status effects</a>, if any, may be applied to the player, but are ignored for this advancement.<br /><i>Note: This is a hidden advancement, meaning that it can be viewed by the player only after completing it.</i></td><td><code>nether/all_effects
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/4/4c/Experience_Orb_Value_617-1236.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>1000 <a href="/Experience" title="Experience">experience</a></td></tr></tbody></table>
+<h3><span class="mw-headline" id="The_End">The End</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/Advancement?action=edit&amp;section=6" title="Edit section: The End">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:352px;"><a href="/File:Advancements_Tree_-_The_End.png" class="image"><img alt="" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fe/Advancements_Tree_-_The_End.png/revision/latest/scale-to-width-down/350?cb=20200220214953" decoding="async" width="350" height="169" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Advancements_Tree_-_The_End.png" class="internal" title="Enlarge"></a></div>Advancement tree in the "The End" tab</div></div></div></div>
+<div style="clear:both"></div>
+<table class="wikitable sortable" data-description="advancements"><tbody><tr><th class="unsortable" colspan="7"><img alt="End Stone JE3 BE2.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/43/End_Stone_JE3_BE2.png/revision/latest/scale-to-width-down/16?cb=20200315175115" decoding="async" width="16" height="16" /> The End</th></tr><tr><th class="unsortable">
+    Icon                              </th><th>
+    <strong class="mw-selflink selflink">Advancement</strong>      </th><th class="unsortable">
+    In-game description               </th><th>
+    Parent                            </th><th class="unsortable">
+    Actual requirements (if different)</th><th>
+    <a href="/Namespaced_ID" title="Namespaced ID">Namespaced ID</a>                 </th><th>
+    Rewards</th></tr><tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-704px -3168px"></span></span></span>
+</p>
+<span class="anchor" id="The_End"></span><span class="anchor" id="The_End"></span></td><td align="center"><b>The End<br /></b></td><td>Or the beginning?
+</td><td>—</td><td>Enter <a href="/The_End" title="The End">the End</a> dimension.</td><td><code>end/root
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-128px -960px"></span></span></span>
+</p>
+<span class="anchor" id="Free_the_End"></span><span class="anchor" id="Free_the_End"></span></td><td align="center"><b>Free the End<br /></b></td><td>Good luck
+</td><td>The End</td><td>Kill the <a href="/Ender_dragon" class="mw-redirect" title="Ender dragon">ender dragon</a>.</td><td><code>end/kill_dragon
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-oval-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/41/Advancement-oval-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050501" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-576px -3168px"></span></span></span>
+</p>
+<span class="anchor" id="The_Next_Generation"></span><span class="anchor" id="The_Next_Generation"></span></td><td align="center"><b>The Next Generation<br /></b></td><td>Hold the Dragon Egg
+</td><td>Free the End</td><td>Have a <a href="/Dragon_egg" class="mw-redirect" title="Dragon egg">dragon egg</a> in your inventory.</td><td><code>end/dragon_egg
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-672px -3488px"></span></span></span>
+</p>
+<span class="anchor" id="Remote_Getaway"></span><span class="anchor" id="Remote_Getaway"></span></td><td align="center"><b>Remote Getaway<br /></b></td><td>Escape the island
+</td><td>Free the End</td><td>Throw an <a href="/Ender_pearl" class="mw-redirect" title="Ender pearl">ender pearl</a> through or walk into an <a href="/End_gateway" title="End gateway">end gateway</a>.</td><td><code>end/enter_end_gateway
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-oval-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/41/Advancement-oval-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050501" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><img alt="Invicon End Crystal.gif" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/07/Invicon_End_Crystal.gif/revision/latest/scale-to-width-down/32?cb=20200428015216" decoding="async" width="32" height="32" class="pixel-image" /></span></span>
+</p>
+<span class="anchor" id="The_End..._Again..."></span><span class="anchor" id="The_End..._Again..."></span></td><td align="center"><b>The End... Again...<br /></b></td><td>Respawn the Ender Dragon
+</td><td>Free the End</td><td>Summon an <a href="/Ender_dragon" class="mw-redirect" title="Ender dragon">ender dragon</a> using <a href="/End_crystals" class="mw-redirect" title="End crystals">end crystals</a>.</td><td><code>end/respawn_dragon
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-oval-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/41/Advancement-oval-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050501" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-32px -3136px"></span></span></span>
+</p>
+<span class="anchor" id="You_Need_a_Mint"></span><span class="anchor" id="You_Need_a_Mint"></span></td><td align="center"><b>You Need a Mint<br /></b></td><td>Collect <a href="/Dragon%27s_breath" class="mw-redirect" title="Dragon&#39;s breath">dragon's breath</a> in a glass bottle
+</td><td>Free the End</td><td>Have a bottle of <a href="/Dragon%27s_breath" class="mw-redirect" title="Dragon&#39;s breath">dragon's breath</a> in your inventory.</td><td><code>end/dragon_breath
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-416px -896px"></span></span></span>
+</p>
+<span class="anchor" id="The_City_at_the_End_of_the_Game"></span><span class="anchor" id="The_City_at_the_End_of_the_Game"></span></td><td align="center"><b>The City at the End of the Game<br /></b></td><td>Go on in, what could happen?
+</td><td>Remote Getaway</td><td>Enter an <a href="/End_city" class="mw-redirect" title="End city">end city</a>.</td><td><code>end/find_end_city
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-oval-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/41/Advancement-oval-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050501" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-224px -2496px"></span></span></span>
+</p>
+<span class="anchor" id="Sky.27s_the_Limit"></span><span class="anchor" id="Sky.27s_the_Limit"></span></td><td align="center"><b>Sky's the Limit<br /></b></td><td>Find elytra
+</td><td>The City at the End of the Game</td><td>Have <a href="/Elytra" title="Elytra">a pair of elytra</a> in your inventory.</td><td><code>end/elytra
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-256px -3520px"></span></span></span>
+</p>
+<span class="anchor" id="Great_View_From_Up_Here"></span><span class="anchor" id="Great_View_From_Up_Here"></span></td><td align="center"><b>Great View From Up Here<br /></b></td><td>Levitate up 50 blocks from the attacks of a Shulker
+</td><td>The City at the End of the Game</td><td>Move a distance of 50 blocks with the <a href="/Levitation" title="Levitation">Levitation</a> effect applied.</td><td><code>end/levitate
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/8/8a/Experience_Orb_Value_37-72.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>50 <a href="/Experience" title="Experience">experience</a></td></tr></tbody></table>
+<h3><span class="mw-headline" id="Adventure">Adventure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/Advancement?action=edit&amp;section=7" title="Edit section: Adventure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:352px;"><a href="/File:Advancements_Tree_-_Adventure.png" class="image"><img alt="" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/df/Advancements_Tree_-_Adventure.png/revision/latest/scale-to-width-down/350?cb=20200623231011" decoding="async" width="350" height="423" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Advancements_Tree_-_Adventure.png" class="internal" title="Enlarge"></a></div>Advancement tree in the "Adventure" tab</div></div></div></div>
+<div style="clear:both"></div>
+<table class="wikitable sortable" data-description="advancements"><tbody><tr><th class="unsortable" colspan="7"><img alt="Empty Map JE2 BE2.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/27/Empty_Map_JE2_BE2.png/revision/latest/scale-to-width-down/16?cb=20190817071159" decoding="async" width="16" height="16" /> Adventure</th></tr><tr><th class="unsortable">
+    Icon                              </th><th>
+    <strong class="mw-selflink selflink">Advancement</strong>      </th><th class="unsortable">
+    In-game description               </th><th>
+    Parent                            </th><th class="unsortable">
+    Actual requirements (if different)</th><th>
+    <a href="/Namespaced_ID" title="Namespaced ID">Namespaced ID</a>                 </th><th>
+    Rewards</th></tr><tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-320px -3552px"></span></span></span>
+</p>
+<span class="anchor" id="Adventure"></span><span class="anchor" id="Adventure"></span></td><td align="center"><b>Adventure<br /></b></td><td>Adventure, exploration, and combat
+</td><td>—</td><td>Kill any <a href="/Entity" title="Entity">entity</a>, or be killed by any <a href="/Entity" title="Entity">entity</a>.</td><td><code>adventure/root
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-96px -2464px"></span></span></span>
+</p>
+<span class="anchor" id="Voluntary_Exile"></span><span class="anchor" id="Voluntary_Exile"></span></td><td align="center"><b>Voluntary Exile<br /></b></td><td>Kill a <a href="/Raid_captain" title="Raid captain">raid captain</a>.<br />Maybe consider staying away from villages for the time being...
+</td><td>Adventure</td><td>Kill an entity in the <code><a href="/Tag#entity_types_raiders" title="Tag">#raiders</a></code> entity tag wearing an ominous banner.</td><td><code>adventure/voluntary_exile
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-640px -3616px"></span></span></span>
+</p>
+<span class="anchor" id="Monster_Hunter"></span><span class="anchor" id="Monster_Hunter"></span></td><td align="center"><b>Monster Hunter<br /></b></td><td>Kill any hostile monster
+</td><td>Adventure</td><td>Kill <i>one</i> of these 34 mobs.<sup id="cite_ref-monsters_5-0" class="reference"><a href="#cite_note-monsters-5">&#91;note 3&#93;</a></sup> Other mobs, if any, may be killed, but are ignored for this advancement.</td><td><code>adventure/kill_a_mob
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-640px -3488px"></span></span></span>
+</p>
+<span class="anchor" id="What_a_Deal.21"></span><span class="anchor" id="What_a_Deal.21"></span></td><td align="center"><b>What a Deal!<br /></b></td><td>Successfully trade with a Villager
+</td><td>Adventure</td><td>Take an item from a villager or wandering trader's trading output slot, and put it in your inventory.</td><td><code>adventure/trade
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-320px -96px"></span></span></span>
+</p>
+<span class="anchor" id="Sticky_Situation"></span><span class="anchor" id="Sticky_Situation"></span></td><td align="center"><b>Sticky Situation<br /></b></td><td>Jump into a Honey Block to break your fall
+</td><td>Adventure</td><td>Collide on a vertical side of a <a href="/Honey_block" class="mw-redirect" title="Honey block">honey block</a> when in air.</td><td><code>adventure/honey_block_slide
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-416px -2368px"></span></span></span>
+</p>
+<span class="anchor" id="Ol.27_Betsy"></span><span class="anchor" id="Ol.27_Betsy"></span></td><td align="center"><b>Ol' Betsy<br /></b></td><td>Shoot a crossbow
+</td><td>Adventure</td><td>—</td><td><code>adventure/ol_betsy
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-480px -3168px"></span></span></span>
+</p>
+<span class="anchor" id="Sweet_Dreams"></span><span class="anchor" id="Sweet_Dreams"></span></td><td align="center"><b>Sweet Dreams<br /></b></td><td>Sleep in a bed to change your respawn point
+</td><td>Adventure</td><td>Lie down in a <a href="/Bed" title="Bed">bed</a>. The advancement is granted as soon as the player is in the bed, even if the player does not successfully sleep.</td><td><code>adventure/sleep_in_bed
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-96px -2464px"></span></span></span>
+</p>
+<span class="anchor" id="Hero_of_the_Village"></span><span class="anchor" id="Hero_of_the_Village"></span></td><td align="center"><b>Hero of the Village<br /></b></td><td>Successfully defend a village from a <a href="/Raid" title="Raid">raid</a>
+</td><td>Voluntary Exile</td><td><i>Note: This is a hidden advancement, meaning that it can be viewed by the player only after completing it.</i></td><td><code>adventure/hero_of_the_village
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/9/9c/Experience_Orb_Value_73-148.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>100 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-608px -1696px"></span></span></span>
+</p>
+<span class="anchor" id="A_Throwaway_Joke"></span><span class="anchor" id="A_Throwaway_Joke"></span></td><td align="center"><b>A Throwaway Joke<br /></b></td><td>Throw a trident at something.<br />Note: Throwing away your only weapon is not a good idea.
+</td><td>Monster Hunter</td><td>Hit an <a href="/Entity" title="Entity">entity</a> with a thrown trident.</td><td><code>adventure/throw_trident
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-992px -1248px"></span></span></span>
+</p>
+<span class="anchor" id="Take_Aim"></span><span class="anchor" id="Take_Aim"></span></td><td align="center"><b>Take Aim<br /></b></td><td>Shoot something with an arrow
+</td><td>Monster Hunter</td><td>Using a bow or a crossbow, shoot an entity with an <a href="/Arrow" title="Arrow">arrow</a>, <a href="/Tipped_arrow" class="mw-redirect" title="Tipped arrow">tipped arrow</a>, or <a href="/Spectral_arrow" class="mw-redirect" title="Spectral arrow">spectral arrow</a>.</td><td><code>adventure/shoot_arrow
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-576px -3616px"></span></span></span>
+</p>
+<span class="anchor" id="Monsters_Hunted"></span><span class="anchor" id="Monsters_Hunted"></span></td><td align="center"><b>Monsters Hunted<br /></b></td><td>Kill one of every hostile monster
+</td><td>Monster Hunter</td><td>Kill <i>each</i> of these 34 mobs.<sup id="cite_ref-monsters_5-1" class="reference"><a href="#cite_note-monsters-5">&#91;note 3&#93;</a></sup> Other mobs, if any, may be killed, but are ignored for this advancement.</td><td><code>adventure/kill_all_mobs
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/9/9c/Experience_Orb_Value_73-148.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>100 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-oval-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/41/Advancement-oval-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050501" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-768px -3616px"></span></span></span>
+</p>
+<span class="anchor" id="Postmortal"></span><span class="anchor" id="Postmortal"></span></td><td align="center"><b>Postmortal<br /></b></td><td>Use a Totem of Undying to cheat death
+</td><td>Monster Hunter</td><td>Activate a <a href="/Totem_of_undying" class="mw-redirect" title="Totem of undying">totem of undying</a> by taking fatal damage.</td><td><code>adventure/totem_of_undying
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-oval-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/41/Advancement-oval-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050501" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-576px -3392px"></span></span></span>
+</p>
+<span class="anchor" id="Hired_Help"></span><span class="anchor" id="Hired_Help"></span></td><td align="center"><b>Hired Help<br /></b></td><td>Summon an Iron Golem to help defend a village
+</td><td>What a Deal!</td><td>Summon an <a href="/Iron_golem" class="mw-redirect" title="Iron golem">iron golem</a>.</td><td><code>adventure/summon_iron_golem
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-416px -2368px"></span></span></span>
+</p>
+<span class="anchor" id="Two_Birds.2C_One_Arrow"></span><span class="anchor" id="Two_Birds.2C_One_Arrow"></span></td><td align="center"><b>Two Birds, One Arrow<br /></b></td><td>Kill two Phantoms with a piercing arrow
+</td><td>Ol' Betsy</td><td>Use a crossbow enchanted with <a href="/Piercing" title="Piercing">Piercing</a> to kill two <a href="/Phantom" title="Phantom">phantoms</a>.</td><td><code>adventure/two_birds_one_arrow
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/8/8a/Experience_Orb_Value_37-72.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>65 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-416px -2368px"></span></span></span>
+</p>
+<span class="anchor" id="Who.27s_the_Pillager_Now.3F"></span><span class="anchor" id="Who.27s_the_Pillager_Now.3F"></span></td><td align="center"><b>Who's the Pillager Now?<br /></b></td><td>Give a Pillager a taste of their own medicine
+</td><td>Ol' Betsy</td><td>Kill a <a href="/Pillager" title="Pillager">pillager</a> with a crossbow.</td><td><code>adventure/whos_the_pillager_now
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-416px -2368px"></span></span></span>
+</p>
+<span class="anchor" id="Arbalistic"></span><span class="anchor" id="Arbalistic"></span></td><td align="center"><b>Arbalistic<br /></b></td><td>Kill five unique mobs with one crossbow shot 
+</td><td>Ol' Betsy</td><td><i>Note: This is a hidden advancement, meaning that it can be viewed by the player only after completing it.</i></td><td><code>adventure/arbalistic
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/9/9c/Experience_Orb_Value_73-148.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>85 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-96px -2496px"></span></span></span>
+</p>
+<span class="anchor" id="Adventuring_Time"></span><span class="anchor" id="Adventuring_Time"></span></td><td align="center"><b>Adventuring Time<br /></b></td><td>Discover every biome
+</td><td>Sweet Dreams</td><td>Visit <i>all</i> of these 42 biomes.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;note 4&#93;</a></sup> The advancement is only for <a href="/Overworld" title="Overworld">Overworld</a> biomes. Other biomes, if any, may also be visited, but are ignored for this advancement.</td><td><code>adventure/adventuring_time
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/6/62/Experience_Orb_Value_307-616.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>500 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-608px -1696px"></span></span></span>
+</p>
+<span class="anchor" id="Very_Very_Frightening"></span><span class="anchor" id="Very_Very_Frightening"></span></td><td align="center"><b>Very Very Frightening<br /></b></td><td>Strike a Villager with lightning
+</td><td>A Throwaway Joke</td><td>Hit a <a href="/Villager" title="Villager">villager</a> with lightning created by a <a href="/Trident" title="Trident">trident</a> with the <a href="/Channeling" title="Channeling">Channeling</a> enchantment.</td><td><code>adventure/very_very_frightening
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-576px -1248px"></span></span></span>
+</p>
+<span class="anchor" id="Sniper_Duel"></span><span class="anchor" id="Sniper_Duel"></span></td><td align="center"><b>Sniper Duel<br /></b></td><td>Kill a Skeleton from at least 50 meters away
+</td><td>Take Aim</td><td>Kill a <a href="/Skeleton" title="Skeleton">skeleton</a> with a projectile while being at least 50 blocks away horizontally.</td><td><code>adventure/sniper_duel
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/8/8a/Experience_Orb_Value_37-72.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>50 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-96px -192px"></span></span></span>
+</p>
+<span class="anchor" id="Bullseye"></span><span class="anchor" id="Bullseye"></span></td><td align="center"><b>Bullseye<br /></b></td><td>Hit the bullseye of a Target block from at least 30 meters away
+</td><td>Take Aim</td><td>Be at least 30 blocks away when the center of a <a href="/Target" title="Target">target</a> is shot with a projectile horizontally by the player.</td><td><code>adventure/bullseye
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/8/8a/Experience_Orb_Value_37-72.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>50 <a href="/Experience" title="Experience">experience</a></td></tr></tbody></table>
+<h3><span class="mw-headline" id="Husbandry">Husbandry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/Advancement?action=edit&amp;section=8" title="Edit section: Husbandry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:352px;"><a href="/File:Advancements_Tree_-_Husbandry.png" class="image"><img alt="" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/64/Advancements_Tree_-_Husbandry.png/revision/latest/scale-to-width-down/350?cb=20200623152322" decoding="async" width="350" height="262" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Advancements_Tree_-_Husbandry.png" class="internal" title="Enlarge"></a></div>Advancement tree in the "Husbandry" tab</div></div></div></div>
+<div style="clear:both"></div>
+<table class="wikitable sortable" data-description="advancements"><tbody><tr><th class="unsortable" colspan="7"><img alt="Hay Bale Axis Y JE2 BE2.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Hay_Bale_Axis_Y_JE2_BE2.png/revision/latest/scale-to-width-down/15?cb=20200315184142" decoding="async" width="15" height="15" /> Husbandry</th></tr><tr><th class="unsortable">
+    Icon                              </th><th>
+    <strong class="mw-selflink selflink">Advancement</strong>      </th><th class="unsortable">
+    In-game description               </th><th>
+    Parent                            </th><th class="unsortable">
+    Actual requirements (if different)</th><th>
+    <a href="/Namespaced_ID" title="Namespaced ID">Namespaced ID</a>                 </th><th>
+    Rewards</th></tr><tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-992px -3232px"></span></span></span>
+</p>
+<span class="anchor" id="Husbandry"></span><span class="anchor" id="Husbandry"></span></td><td align="center"><b>Husbandry<br /></b></td><td>The world is full of friends and food
+</td><td>—</td><td>Eat <i>one</i> of these 39 foods.<sup id="cite_ref-foods_7-0" class="reference"><a href="#cite_note-foods-7">&#91;note 5&#93;</a></sup> Other foods, if any, can be eaten, but are ignored for this advancement.</td><td><code>husbandry/root
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-896px -32px"></span></span></span>
+</p>
+<span class="anchor" id="Bee_Our_Guest"></span><span class="anchor" id="Bee_Our_Guest"></span></td><td align="center"><b>Bee Our Guest<br /></b></td><td>Use a <a href="/Campfire" title="Campfire">Campfire</a> to collect Honey from a <a href="/Beehive" title="Beehive">Beehive</a> using a Bottle without aggravating the bees
+</td><td>Husbandry</td><td><span class="explain" title="Defaults to right click on mouse or right trigger on controller.">Use</span> a bottle on a <a href="/Beehive" title="Beehive">beehive</a> or <a href="/Bee_nest" class="mw-redirect" title="Bee nest">bee nest</a> while not angering the bees inside.</td><td><code>husbandry/safely_harvest_honey
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-608px -3200px"></span></span></span>
+</p>
+<span class="anchor" id="The_Parrots_and_the_Bats"></span><span class="anchor" id="The_Parrots_and_the_Bats"></span></td><td align="center"><b>The Parrots and the Bats<br /></b></td><td>Breed two animals together
+</td><td>Husbandry</td><td>—</td><td><code>husbandry/breed_an_animal
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-800px -3552px"></span></span></span>
+</p>
+<span class="anchor" id="Best_Friends_Forever"></span><span class="anchor" id="Best_Friends_Forever"></span></td><td align="center"><b>Best Friends Forever<br /></b></td><td><a href="/Tame" class="mw-redirect" title="Tame">Tame</a> an animal
+</td><td>Husbandry</td><td>—</td><td><code>husbandry/tame_an_animal
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-448px -3552px"></span></span></span>
+</p>
+<span class="anchor" id="Fishy_Business"></span><span class="anchor" id="Fishy_Business"></span></td><td align="center"><b>Fishy Business<br /></b></td><td>Catch a fish
+</td><td>Husbandry</td><td>Use a <a href="/Fishing_rod" class="mw-redirect" title="Fishing rod">fishing rod</a> to catch a fish.</td><td><code>husbandry/fishy_business
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-992px -32px"></span></span></span>
+</p>
+<span class="anchor" id="Total_Beelocation"></span><span class="anchor" id="Total_Beelocation"></span></td><td align="center"><b>Total Beelocation<br /></b></td><td>Move a <a href="/Bee_Nest" class="mw-redirect" title="Bee Nest">Bee Nest</a>, with 3 bees inside, using <a href="/Silk_Touch" title="Silk Touch">Silk Touch</a>
+</td><td>Husbandry</td><td>—</td><td><code>husbandry/silk_touch_nest
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-608px -3200px"></span></span></span>
+</p>
+<span class="anchor" id="A_Seedy_Place"></span><span class="anchor" id="A_Seedy_Place"></span></td><td align="center"><b>A Seedy Place<br /></b></td><td>Plant a seed and watch it grow
+</td><td>Husbandry</td><td>Plant <i>one</i> of these 5 crops: Beetroot, Melon, Nether Wart, Pumpkin, Wheat. Other crops and plants, if any, can be planted, but are ignored for this advancement.</td><td><code>husbandry/plant_seed
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-160px -3136px"></span></span></span>
+</p>
+<span class="anchor" id="Two_by_Two"></span><span class="anchor" id="Two_by_Two"></span></td><td align="center"><b>Two by Two<br /></b></td><td>Breed all the animals!
+</td><td>The Parrots and the Bats</td><td>Breed pairs of <i>each</i> of these 19 mobs.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;note 6&#93;</a></sup> A <a href="/Llama" title="Llama">trader llama</a> does not count as a <a href="/Llama" title="Llama">llama</a>, and a <a href="/Mule" title="Mule">mule</a> must be the result of <a href="/Breeding" title="Breeding">breeding</a> a <a href="/Horse" title="Horse">horse</a> and a <a href="/Donkey" title="Donkey">donkey</a> for this advancement as they are not breed-able together. Other breed-able mobs, if any, can be bred, but are ignored for this advancement.</td><td><code>husbandry/bred_all_animals
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/9/9c/Experience_Orb_Value_73-148.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>100 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-896px -1664px"></span></span></span>
+</p>
+<span class="anchor" id="A_Complete_Catalogue"></span><span class="anchor" id="A_Complete_Catalogue"></span></td><td align="center"><b>A Complete Catalogue<br /></b></td><td>Tame all cat variants!
+</td><td>Best Friends Forever</td><td>Tame <i>each</i> of these 11 cat variants.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;note 7&#93;</a></sup> Other cat variants, if any, can be tamed, but are ignored for this advancement.</td><td><code>husbandry/complete_catalogue
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/8/8a/Experience_Orb_Value_37-72.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>50 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-plain-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/Advancement-plain-raw.png/revision/latest/scale-to-width-down/52?cb=20200329051156" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-704px -1664px"></span></span></span>
+</p>
+<span class="anchor" id="Tactical_Fishing"></span><span class="anchor" id="Tactical_Fishing"></span></td><td align="center"><b>Tactical Fishing<br /></b></td><td>Catch a fish... without a fishing rod!
+</td><td>Fishy Business</td><td>Use a <a href="/Water_bucket" class="mw-redirect" title="Water bucket">water bucket</a> to pick up a fish or axolotl&#8204;<sup class="nowrap" title="">[<i><span title="This statement applies only to upcoming versions of Minecraft.">upcoming:</span> <a href="/1.17" title="1.17">1.17</a></i>]</sup>.</td><td><code>husbandry/tactical_fishing
+</code></td><td>—</td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-768px -3168px"></span></span></span>
+</p>
+<span class="anchor" id="A_Balanced_Diet"></span><span class="anchor" id="A_Balanced_Diet"></span></td><td align="center"><b>A Balanced Diet<br /></b></td><td>Eat everything that is edible, even if it's not good for you
+</td><td>A Seedy Place</td><td>Eat <i>each</i> of these 39 foods.<sup id="cite_ref-foods_7-1" class="reference"><a href="#cite_note-foods-7">&#91;note 5&#93;</a></sup> Other foods, if any, can be eaten, but are ignored for this advancement.</td><td><code>husbandry/balanced_diet
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/9/9c/Experience_Orb_Value_73-148.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>100 <a href="/Experience" title="Experience">experience</a></td></tr>
+<tr><td>
+<p><span class="plainlinks" style="display: inline-block; position: relative; width:52px; height:52px;"><img alt="Advancement-fancy-raw.png" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/96/Advancement-fancy-raw.png/revision/latest/scale-to-width-down/52?cb=20200329050444" decoding="async" width="52" height="52" class="pixel-image" /><span style="position:absolute; left:10px; top:10px; line-height:0"><span class="sprite inv-sprite" style="background-image:url(/media/4/44/InvSprite.png?version=1608139719213);background-position:-288px -128px"></span></span></span>
+</p>
+<span class="anchor" id="Serious_Dedication"></span><span class="anchor" id="Serious_Dedication"></span></td><td align="center"><b>Serious Dedication<br /></b></td><td>Use a <a href="/Netherite_ingot" class="mw-redirect" title="Netherite ingot">Netherite ingot</a> to upgrade a <a href="/Hoe" title="Hoe">hoe</a>, and then reevaluate your life choices
+</td><td>A Seedy Place</td><td>Have a <a href="/Hoe" title="Hoe">netherite hoe</a> in your inventory.</td><td><code>husbandry/obtain_netherite_hoe
+</code></td><td><span class="animated"><span class="animated-active" style="background-image:url(/media/9/9c/Experience_Orb_Value_73-148.png);background-position:left center;background-size:16px 16px;padding-left:19px;background-repeat:no-repeat"></span></span>100 <a href="/Experience" title="Experience">experience</a></td></tr></tbody></table>
+<h2><span class="mw-headline" id="JSON_format">JSON format</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/Advancement?action=edit&amp;section=9" title="Edit section: JSON format">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote">Main article: <a href="/Advancement/JSON_format" title="Advancement/JSON format">Advancement/JSON format</a></div>
+<h2><span class="mw-headline" id="Sounds">Sounds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/Advancement?action=edit&amp;section=10" title="Edit section: Sounds">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable"><tbody><tr><th>Sound</th><th><a href="/Subtitle" class="mw-redirect" title="Subtitle">Subtitle</a></th><th><abbr title="The category this sound falls into; what volume slider controls this sound in the Music and Sounds menu.">Source</abbr></th><th><abbr title="When the game calls this sound event.">Description</abbr></th><th><a href="/Namespaced_ID" title="Namespaced ID">Namespaced ID</a></th><th>Translation key</th><th>Volume</th><th>Pitch</th><th>Attenuation<br />distance</th></tr><tr><td><span class="sound"><span class="sound-title"></span><audio src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3a/In.ogg/revision/latest?cb=20200915204202" width="180" class="sound-audio" style="max-width: 100%; width: 180px;" controls=""><a href="https://minecraft.gamepedia.com/File:In.ogg">https://minecraft.gamepedia.com/File:In.ogg</a></audio></span></td><td><i>None</i><sup id="cite_ref-bug200463_10-0" class="reference"><a href="#cite_note-bug200463-10">&#91;sound 1&#93;</a></sup></td><td>Master</td><td>Completing any advancement</td><td><code style="white-space: nowrap">ui.toast.in</code></td><td><i>None</i><sup id="cite_ref-bug200463_10-1" class="reference"><a href="#cite_note-bug200463-10">&#91;sound 1&#93;</a></sup></td><td>0.4</td><td>1.0</td><td>16</td></tr>
+<tr><td><span class="sound"><span class="sound-title"></span><audio src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/62/Out.ogg/revision/latest?cb=20200915204202" width="180" class="sound-audio" style="max-width: 100%; width: 180px;" controls=""><a href="https://minecraft.gamepedia.com/File:Out.ogg">https://minecraft.gamepedia.com/File:Out.ogg</a></audio></span></td><td><i>None</i><sup id="cite_ref-bug200463_10-2" class="reference"><a href="#cite_note-bug200463-10">&#91;sound 1&#93;</a></sup></td><td>Master</td><td>When an advancement <a href="https://en.wikipedia.org/wiki/Toast_(computing)" class="extiw" title="wikipedia:Toast (computing)">toast</a> finishes</td><td><code style="white-space: nowrap">ui.toast.out</code></td><td><i>None</i><sup id="cite_ref-bug200463_10-3" class="reference"><a href="#cite_note-bug200463-10">&#91;sound 1&#93;</a></sup></td><td>0.4</td><td>1.0</td><td>16</td></tr>
+<tr><td><span class="sound"><span class="sound-title"></span><audio src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/14/Challenge_complete.ogg/revision/latest?cb=20200714224844" width="180" class="sound-audio" style="max-width: 100%; width: 180px;" controls=""><a href="https://minecraft.gamepedia.com/File:Challenge_complete.ogg">https://minecraft.gamepedia.com/File:Challenge_complete.ogg</a></audio></span></td><td><i>None</i><sup id="cite_ref-bug200463_10-4" class="reference"><a href="#cite_note-bug200463-10">&#91;sound 1&#93;</a></sup></td><td>Master</td><td>Completing a challenge advancement</td><td><code style="white-space: nowrap">ui.toast.challenge_complete</code></td><td><i>None</i><sup id="cite_ref-bug200463_10-5" class="reference"><a href="#cite_note-bug200463-10">&#91;sound 1&#93;</a></sup></td><td>0.6</td><td>1.0</td><td>16</td></tr></tbody></table><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-bug200463-10"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-bug200463_10-0">a</a></sup> <sup><a href="#cite_ref-bug200463_10-1">b</a></sup> <sup><a href="#cite_ref-bug200463_10-2">c</a></sup> <sup><a href="#cite_ref-bug200463_10-3">d</a></sup> <sup><a href="#cite_ref-bug200463_10-4">e</a></sup> <sup><a href="#cite_ref-bug200463_10-5">f</a></sup></span> <span class="reference-text"><span class="bug plainlinks" data-id="MC-200463"><a href="https://bugs.mojang.com/browse/MC-200463" class="extiw" title="mojira:MC-200463">MC-200463</a></span></span>
+</li>
+</ol></div>
